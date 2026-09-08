@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BluePrismOrchestrator.Api/BluePrismOrchestrator.Api.csproj" />
+  </Folder>
+</Solution>
